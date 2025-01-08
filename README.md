@@ -5,11 +5,6 @@
   <img align="center" alt="Yuri-Icons" src="https://skillicons.dev/icons?i=python,bash,linux,azure,)](https://skillicons.dev">
   <img align="right" alt="Yuri-Icons" src="https://media.tenor.com/DLcytNjRQ7QAAAAj/undertale-yellow-clover-dancing.gif">
 
-<div> 
- <a href = "mailto:ny638811@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/nic21santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
 ##
 
 - 🌱 I’m currently learning Information Security. 
